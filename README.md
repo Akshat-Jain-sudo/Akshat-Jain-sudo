@@ -7,9 +7,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=aboutdotme&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain-7b92a5313/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wRTkNlWd5L/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat.jain0411@gmail.com)
 
 </div>
@@ -63,9 +62,8 @@
 
 - **Core Language**: C++ (STL, Memory Management, Optimization)
 - **Practice Focus**: Data Structures (Trees, Graphs, Heaps), Algorithm Design (Dynamic Programming, Greedy, Graph Traversal)
-- **Profiles**:
-  - ⚡ [LeetCode Profile](#)
-  - 🎯 [Competitive Programming / Coding Profile](#)
+- **Profiles & Practice**:
+  - ⚡ [LeetCode Profile (@wRTkNlWd5L)](https://leetcode.com/u/wRTkNlWd5L/)
 
 ---
 
