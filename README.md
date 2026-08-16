@@ -41,12 +41,12 @@
 
 ### 🚀 Featured Projects
 
-#### 1. [Symbiote](https://github.com/Akshat-Jain-sudo/Symbiote) — AI-Powered Multi-Store Shopping & Optimization Platform
-> Multi-store e-commerce aggregation platform designed to optimize shopping carts and product discovery across digital storefronts.
+#### 1. [Symbiote](https://github.com/Akshat-Jain-sudo/scrape) — AI-Powered Multi-Store Shopping & Web Scraping Platform
+> End-to-end e-commerce platform and scraping engine engineered to aggregate, parse, compare, and optimize product purchases across storefronts.
 
-- **Capabilities**: Cross-store price comparison, automated cart optimization, AI shopping assistant, real-time product web scraping, browser extension integration, and checkout automation.
-- **Technologies**: `React` • `Vite` • `TypeScript` • `Node.js` • `Express.js` • `PostgreSQL` • `Neon` • `Playwright` • `AI APIs`
-- **Repository**: [github.com/Akshat-Jain-sudo/Symbiote](https://github.com/Akshat-Jain-sudo/Symbiote)
+- **Capabilities**: Multi-store price comparison, automated cart optimization, AI shopping assistant integration, automated product scraping & HTML parsing, browser extension client, and checkout automation.
+- **Technologies**: `React` • `Vite` • `TypeScript` • `Node.js` • `Express.js` • `PostgreSQL` • `Neon` • `Playwright` • `BeautifulSoup` • `Pandas` • `AI APIs`
+- **Repository**: [github.com/Akshat-Jain-sudo/scrape](https://github.com/Akshat-Jain-sudo/scrape)
 
 ---
 
@@ -56,15 +56,6 @@
 - **Capabilities**: In-browser code snippet selection, automated syntactic breakdown, developer reading assistance, and integration with modern browser extension APIs.
 - **Technologies**: `TypeScript` • `JavaScript` • `Browser Extension APIs`
 - **Repository**: [github.com/Akshat-Jain-sudo/Code-to-word-extension](https://github.com/Akshat-Jain-sudo/Code-to-word-extension)
-
----
-
-#### 3. [Scrape](https://github.com/Akshat-Jain-sudo/scrape) — Automated Product Data Extraction & Analysis
-> Scalable web scraping and data pipeline to extract, parse, clean, and structure product information for downstream analytical workflows.
-
-- **Capabilities**: Robust HTML document parsing, structured DataFrame transformation, automated data cleaning, and CSV exports.
-- **Technologies**: `Python` • `BeautifulSoup` • `Pandas` • `Requests` • `lxml`
-- **Repository**: [github.com/Akshat-Jain-sudo/scrape](https://github.com/Akshat-Jain-sudo/scrape)
 
 ---
 
