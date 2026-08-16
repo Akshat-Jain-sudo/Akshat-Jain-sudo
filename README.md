@@ -1,14 +1,15 @@
 <div align="center">
 
-# Akshat Jain
+# Hi, I'm Akshat Jain 👋
 
 **B.Tech in Information Technology • Delhi Technological University (DTU)**  
-*Full-stack developer building robust web applications, automation pipelines, and developer tools.*
+*Building developer tools, full-stack applications, and AI-powered software.*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain-7b92a5313/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wRTkNlWd5L/)
+[![LeetCode](https://img.shields.io/badge/LeetCode_450+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wRTkNlWd5L/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat-Jain-sudo)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat.jain0411@gmail.com)
 
 </div>
@@ -17,74 +18,101 @@
 
 ### 👤 About Me
 
-- 🎓 **Education**: B.Tech Undergraduate in Information Technology at Delhi Technological University (DTU).
-- 💻 **Software Engineering**: Building full-stack web applications, browser extensions, and developer utilities.
-- ⚙️ **Backend & Systems**: Engineering RESTful APIs, database architectures (PostgreSQL / Neon), and automated pipelines.
-- 🧩 **Core Foundations**: Actively sharpening Data Structures & Algorithms (C++) and foundational system design.
-
----
-
-### 🛠️ Technical Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Neon DB](https://img.shields.io/badge/Neon_DB-00E599?style=flat-square&logo=postgresql&logoColor=black) |
-| **Automation & Scraping** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white) ![Browser Extensions](https://img.shields.io/badge/Extension_APIs-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
-| **Data & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+- 🎓 **Academic Background**: B.Tech in Information Technology at Delhi Technological University (DTU, 2024–Present) • **CGPA: 8.97**.
+- 🛠️ **Developer Tools & Full-Stack**: Building automated documentation engines, VS Code extensions, and multi-store web platforms.
+- 🧩 **DSA & Core Foundations**: **450+ LeetCode problems solved** primarily in C++ with structured coursework in OOP, OS, DBMS, and Software Engineering.
+- 🤖 **AI & API Integration**: Practical experience orchestrating LLM APIs (Google Gemini, OpenAI, Claude, local Ollama) into developer workflows.
+- 📚 **Data & Systems**: Structured foundations across SQL, Python, data analysis, machine learning fundamentals, and cybersecurity.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. [Symbiote](https://github.com/Akshat-Jain-sudo/scrape) — AI-Powered Multi-Store Shopping & Web Scraping Platform
-> End-to-end e-commerce platform and scraping engine engineered to aggregate, parse, compare, and optimize product purchases across storefronts.
+#### 1. [Code-to-Word](https://github.com/Akshat-Jain-sudo/Code-to-word-extension) — AI-Powered Documentation & Lab-Manual Automation
+> Production VS Code extension that automatically parses Python, C, and C++ source code to generate structured, formatted Word (.docx) technical documentation and batch lab manuals.
 
-- **Capabilities**: Multi-store price comparison, automated cart optimization, AI shopping assistant integration, automated product scraping & HTML parsing, browser extension client, and checkout automation.
-- **Technologies**: `React` • `Vite` • `TypeScript` • `Node.js` • `Express.js` • `PostgreSQL` • `Neon` • `Playwright` • `BeautifulSoup` • `Pandas` • `AI APIs`
-- **Repository**: [github.com/Akshat-Jain-sudo/scrape](https://github.com/Akshat-Jain-sudo/scrape)
-
----
-
-#### 2. [Code-to-Word-Extension](https://github.com/Akshat-Jain-sudo/Code-to-word-extension) — Contextual Code Explanation Extension
-> Browser extension utility that parses code directly on web pages and translates syntax into clear, contextual natural-language explanations.
-
-- **Capabilities**: In-browser code snippet selection, automated syntactic breakdown, developer reading assistance, and integration with modern browser extension APIs.
-- **Technologies**: `TypeScript` • `JavaScript` • `Browser Extension APIs`
-- **Repository**: [github.com/Akshat-Jain-sudo/Code-to-word-extension](https://github.com/Akshat-Jain-sudo/Code-to-word-extension)
+- **Multi-Model AI Orchestration**: Supports Google Gemini, OpenAI, xAI Grok, and local Ollama to avoid vendor lock-in.
+- **Native Document Generation**: Generates clean DOCX outputs with dynamic Tables of Contents, cover pages, and Prism.js tokenized syntax highlighting converted into Word TextRuns.
+- **Architecture Diagramming**: Synthesizes AI-driven Mermaid.js architecture diagrams and embeds them with aspect-ratio correction.
+- **v1.1.0 Quality & Security Audit**: Identified and resolved 29 shortcomings — patched Webview XSS vulnerabilities, implemented 15-second `AbortController` timeouts, fixed file-sorting and silent batch failures, removed `@ts-nocheck`, and added OS clipboard-based terminal screenshots.
+- **Reliability & Testing**: Centralized TypeScript interfaces and a Mocha test suite verifying 5 core pure functions.
+- **Tech Stack**: `TypeScript` • `VS Code API` • `Node.js` • `Gemini API` • `OpenAI API` • `Ollama` • `Prism.js` • `Mermaid.js` • `Mocha`
 
 ---
 
-### 💡 Problem Solving & DSA
+#### 2. [Symbiote](https://github.com/Akshat-Jain-sudo/scrape) — Multi-Store Price Comparison & Analytics Engine
+> Full-stack price comparison platform aggregating and analyzing live product pricing across 8 major retail and quick-commerce platforms.
 
-- **Core Language**: C++ (STL, Memory Management, Optimization)
-- **Practice Focus**: Data Structures (Trees, Graphs, Heaps), Algorithm Design (Dynamic Programming, Greedy, Graph Traversal)
-- **Profiles & Practice**:
-  - ⚡ [LeetCode Profile (@wRTkNlWd5L)](https://leetcode.com/u/wRTkNlWd5L/)
+- **8-Platform Aggregation**: Scrapes and compares product pricing across Flipkart, Snapdeal, Croma, Myntra, Ajio, Blinkit, Swiggy Instamart, and Zepto across Electronics, Fashion, and Quick Commerce categories.
+- **Resilient Scraping Layer**: Express, Cheerio, and Axios engine with rotating request headers, rate-limiting handlers, and a fallback data layer when live scraping is blocked or times out.
+- **Analytics & Reporting**: Built-in dashboard visualizing price distributions, store-wise discount margins, and best-deal highlights, with structured CSV and Excel export (`json2csv`, `exceljs`).
+- **Single-Service Architecture**: Configured a unified production deployment serving the optimized Vite frontend build directly through Express.
+- **Tech Stack**: `React` • `Vite` • `Node.js` • `Express.js` • `Cheerio` • `Axios` • `json2csv` • `exceljs`
+
+---
+
+### 🛠️ Technical Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | C++, Python, C, SQL, JavaScript, TypeScript |
+| **Frontend / Web** | React, Vite, HTML5, CSS3 |
+| **Backend & APIs** | Node.js, Express.js, REST APIs |
+| **AI & LLM APIs** | Google Gemini API, OpenAI API, Ollama, Claude API |
+| **Databases & Storage** | MySQL, Firebase |
+| **Data & Analytics** | Pandas, NumPy, Matplotlib |
+| **Scraping & Processing** | Cheerio, Axios, BeautifulSoup, json2csv, exceljs |
+| **Developer Tools & Testing** | Git, GitHub, Docker, VS Code API, Mocha, Prism.js, Mermaid.js, Tableau |
+
+---
+
+### 🧠 Problem Solving & DSA
+
+- **Platform & Count**: **450+ Problems Solved** on LeetCode • Primary Language: **C++**
+- **Core Focus**: Data Structures (Trees, Graphs, Heaps, Tries), Algorithm Design (Dynamic Programming, Greedy, Graph Traversals, Binary Search)
+- **Profile**: ⚡ [leetcode.com/u/wRTkNlWd5L](https://leetcode.com/u/wRTkNlWd5L/)
+
+---
+
+### 📜 Selected Certifications
+
+- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI
+- **Databases and SQL for Data Science with Python** — IBM / Coursera
+- **Introduction to Cybersecurity** — Cisco
+- **Data Visualisation** — Kaggle
+- **Python 101 for Data Science** — Cognitive Class
 
 ---
 
 ### 🌱 Currently Exploring
 
-- **Advanced Data Structures & Algorithms** (Advanced Graphs, Tree Traversals, DP Optimizations)
-- **Backend Architecture & System Design** (Caching, Microservices, API Reliability)
-- **AI-Powered Applications & Agentic Integrations**
-- **Production Software Engineering Practices & Clean Code**
+- Advanced Data Structures & Algorithms & competitive problem-solving patterns
+- Backend architecture, caching, and scalable system design fundamentals
+- AI-powered developer tools and document automation workflows
+- Machine learning fundamentals and applied data analysis pipelines
+- Production testing methodologies, CI/CD, and software engineering practices
+- Cybersecurity fundamentals and secure coding principles
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 **LinkedIn**: [linkedin.com/in/akshat-jain-7b92a5313](https://www.linkedin.com/in/akshat-jain-7b92a5313/)
+- ⚡ **LeetCode**: [leetcode.com/u/wRTkNlWd5L](https://leetcode.com/u/wRTkNlWd5L/)
+- 🐙 **GitHub**: [github.com/Akshat-Jain-sudo](https://github.com/Akshat-Jain-sudo)
+- ✉️ **Email**: [akshat.jain0411@gmail.com](mailto:akshat.jain0411@gmail.com)
 
 ---
 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Jain-sudo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Akshat Jain's GitHub Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Jain-sudo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Akshat Jain's GitHub Stats" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Jain-sudo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Jain-sudo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 ---
 <div align="center">
-  <sub>Designed for <a href="https://github.com/Akshat-Jain-sudo">Akshat-Jain-sudo</a> • Delhi Technological University</sub>
+  <sub>Akshat Jain • Delhi Technological University</sub>
 </div>
