@@ -20,7 +20,7 @@
 
 - 🎓 **Academic Background**: B.Tech in Information Technology at Delhi Technological University (DTU, 2024–Present) • **CGPA: 8.97**.
 - 🛠️ **Developer Tools & Full-Stack**: Building automated documentation engines, VS Code extensions, and multi-store web platforms.
-- 🧩 **DSA & Core Foundations**: **450+ LeetCode problems solved** primarily in C++ with structured coursework in OOP, OS, DBMS, and Software Engineering.
+- 🧩 **DSA & Core Foundations**: **650+ LeetCode problems solved** primarily in C++ with structured coursework in OOP, OS, DBMS, and Software Engineering.
 - 🤖 **AI & API Integration**: Practical experience orchestrating LLM APIs (Google Gemini, OpenAI, Claude, local Ollama) into developer workflows.
 - 📚 **Data & Systems**: Structured foundations across SQL, Python, data analysis, machine learning fundamentals, and cybersecurity.
 
