@@ -13,7 +13,7 @@
 <!-- Fast Contact & Profile Links -->
 <a href="https://www.linkedin.com/in/akshat-jain-7b92a5313/"><img src="https://img.shields.io/badge/LinkedIn-Akshat_Jain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://leetcode.com/u/wRTkNlWd5L/"><img src="https://img.shields.io/badge/LeetCode-650+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://leetcode.com/u/wRTkNlWd5L/"><img src="https://img.shields.io/badge/LeetCode-730+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 &nbsp;
 <a href="https://codeforces.com/profile/akshat.jain0411"><img src="https://img.shields.io/badge/Codeforces-akshat.jain0411-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 &nbsp;
@@ -44,7 +44,7 @@
 I am a **B.Tech Information Technology student at Delhi Technological University (DTU)**, passionate about software engineering, backend systems, databases, and machine learning.
 
 - 💻 **Core Language**: **C++** is my primary language for systems and algorithmic problem solving, paired with **Python** and **SQL** for data pipelines and backend services.
-- 🧩 **Problem Solving**: **650+ LeetCode problems solved**, focusing on dynamic programming, graph theory, trees, and optimal data structure choices.
+- 🧩 **Problem Solving**: **730+ LeetCode problems solved** (Global Rank #90,004), focusing on dynamic programming, graph theory, trees, and optimal data structure choices.
 - 🛠️ **Engineering Mindset**: I enjoy benchmarking systems, inspecting buffer usage, and building practical tools that hold up under real-world conditions.
 - ☕ **Current Routine**: Solving DSA problems, learning how systems work under the hood, and running on chai and debugging.
 
@@ -152,7 +152,7 @@ I am a **B.Tech Information Technology student at Delhi Technological University
 
 ### 🏆 Key Achievements
 
-- **650+ LeetCode Problems Solved** with C++ as primary problem-solving language.
+- **730+ LeetCode Problems Solved** with C++ as primary problem-solving language (Global Rank #90,004).
 - **JEE Main 2024**: **99.59 Percentile** (AIR 6690 out of ~1.4 million candidates).
 - **JEE Advanced 2024**: **AIR 8417** qualified.
 - **DTU Academic Excellence**: Information Technology Undergraduate with **8.97 Cumulative CGPA**.
@@ -163,7 +163,7 @@ I am a **B.Tech Information Technology student at Delhi Technological University
 
 | Platform | Handle / Profile | Focus & Highlights | Link |
 | :--- | :--- | :--- | :--- |
-| **LeetCode** | [`@wRTkNlWd5L`](https://leetcode.com/u/wRTkNlWd5L/) | **650+ Problems Solved** · DP, Graph Theory, Trees, Binary Search | [Profile ↗](https://leetcode.com/u/wRTkNlWd5L/) |
+| **LeetCode** | [`@wRTkNlWd5L`](https://leetcode.com/u/wRTkNlWd5L/) | **734 Problems Solved** (Global Rank #90,004) · DP, Graph Theory, Trees, Binary Search | [Profile ↗](https://leetcode.com/u/wRTkNlWd5L/) |
 | **Codeforces** | [`@akshat.jain0411`](https://codeforces.com/profile/akshat.jain0411) | Active Division 2 & 3 Contest Rounds | [Profile ↗](https://codeforces.com/profile/akshat.jain0411) |
 | **CodeChef** | [`@writer0411`](https://www.codechef.com/users/writer0411) | Contest Challenger · Starters & Cook-Offs | [Profile ↗](https://www.codechef.com/users/writer0411) |
 | **GeeksforGeeks** | [`@akshatjac1tg`](https://www.geeksforgeeks.org/user/akshatjac1tg) | Problem of the Day Streak & Practice Archive | [Profile ↗](https://www.geeksforgeeks.org/user/akshatjac1tg) |
