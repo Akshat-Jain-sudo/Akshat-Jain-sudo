@@ -13,11 +13,21 @@
 <!-- Fast Contact & Profile Links -->
 <a href="https://www.linkedin.com/in/akshat-jain-7b92a5313/"><img src="https://img.shields.io/badge/LinkedIn-Akshat_Jain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://leetcode.com/u/Akshat-Jain-sudo/"><img src="https://img.shields.io/badge/LeetCode-650+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://leetcode.com/u/wRTkNlWd5L/"><img src="https://img.shields.io/badge/LeetCode-650+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 &nbsp;
-<a href="https://codeforces.com/profile/Akshat-Jain"><img src="https://img.shields.io/badge/Codeforces-Akshat--Jain-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://codeforces.com/profile/akshat.jain0411"><img src="https://img.shields.io/badge/Codeforces-akshat.jain0411-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 &nbsp;
-<a href="https://www.codechef.com/users/akshat_jain02"><img src="https://img.shields.io/badge/CodeChef-3★_Div2-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://www.codechef.com/users/writer0411"><img src="https://img.shields.io/badge/CodeChef-writer0411-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/akshatjac1tg"><img src="https://img.shields.io/badge/GeeksforGeeks-akshatjac1tg-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/akshat_jain0411"><img src="https://img.shields.io/badge/HackerRank-akshat__jain0411-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+&nbsp;
+<a href="https://www.naukri.com/code360/profile/7df04252-3450-45b4-bc5b-a992"><img src="https://img.shields.io/badge/CodeStudio-Code360-F97316?style=flat-square&logo=codingninjas&logoColor=white" alt="CodeStudio" /></a>
+&nbsp;
+<a href="https://atcoder.jp/users/Wwriter"><img src="https://img.shields.io/badge/AtCoder-Wwriter-333333?style=flat-square&logo=atcoder&logoColor=white" alt="AtCoder" /></a>
+&nbsp;
+<a href="https://algomaster.io/profile/akshat-jain"><img src="https://img.shields.io/badge/AlgoMaster-akshat--jain-06B6D4?style=flat-square&logoColor=white" alt="AlgoMaster" /></a>
 &nbsp;
 <a href="mailto:akshat.jain0411@gmail.com"><img src="https://img.shields.io/badge/Email-akshat.jain0411-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -149,6 +159,21 @@ I am a **B.Tech Information Technology student at Delhi Technological University
 
 ---
 
+### 🧩 Problem Solving & Coding Profiles
+
+| Platform | Handle / Profile | Focus & Highlights | Link |
+| :--- | :--- | :--- | :--- |
+| **LeetCode** | [`@wRTkNlWd5L`](https://leetcode.com/u/wRTkNlWd5L/) | **650+ Problems Solved** · DP, Graph Theory, Trees, Binary Search | [Profile ↗](https://leetcode.com/u/wRTkNlWd5L/) |
+| **Codeforces** | [`@akshat.jain0411`](https://codeforces.com/profile/akshat.jain0411) | Active Division 2 & 3 Contest Rounds | [Profile ↗](https://codeforces.com/profile/akshat.jain0411) |
+| **CodeChef** | [`@writer0411`](https://www.codechef.com/users/writer0411) | Contest Challenger · Starters & Cook-Offs | [Profile ↗](https://www.codechef.com/users/writer0411) |
+| **GeeksforGeeks** | [`@akshatjac1tg`](https://www.geeksforgeeks.org/user/akshatjac1tg) | Problem of the Day Streak & Practice Archive | [Profile ↗](https://www.geeksforgeeks.org/user/akshatjac1tg) |
+| **HackerRank** | [`@akshat_jain0411`](https://www.hackerrank.com/profile/akshat_jain0411) | Problem Solving & C++ Gold Domain Badges | [Profile ↗](https://www.hackerrank.com/profile/akshat_jain0411) |
+| **CodeStudio (Code360)** | [`@7df04252...`](https://www.naukri.com/code360/profile/7df04252-3450-45b4-bc5b-a992) | Curated DSA Interview Preparation Tracks | [Profile ↗](https://www.naukri.com/code360/profile/7df04252-3450-45b4-bc5b-a992) |
+| **AtCoder** | [`@Wwriter`](https://atcoder.jp/users/Wwriter) | AtCoder Beginner & Regular Contests | [Profile ↗](https://atcoder.jp/users/Wwriter) |
+| **AlgoMaster** | [`@akshat-jain`](https://algomaster.io/profile/akshat-jain) | Algorithmic Pattern Mastery & Curated Sheets | [Profile ↗](https://algomaster.io/profile/akshat-jain) |
+
+---
+
 ### 📜 Certifications
 
 - **Supervised Machine Learning: Regression and Classification** — [DeepLearning.AI / Coursera](https://www.coursera.org/)
@@ -173,7 +198,14 @@ I am a **B.Tech Information Technology student at Delhi Technological University
 
 - 💼 **LinkedIn**: [linkedin.com/in/akshat-jain-7b92a5313](https://www.linkedin.com/in/akshat-jain-7b92a5313/)
 - ✉️ **Email**: [akshat.jain0411@gmail.com](mailto:akshat.jain0411@gmail.com)
-- ⚡ **LeetCode**: [leetcode.com/u/Akshat-Jain-sudo](https://leetcode.com/u/Akshat-Jain-sudo/)
+- ⚡ **LeetCode**: [leetcode.com/u/wRTkNlWd5L](https://leetcode.com/u/wRTkNlWd5L/)
+- 🌐 **Codeforces**: [codeforces.com/profile/akshat.jain0411](https://codeforces.com/profile/akshat.jain0411)
+- 🍳 **CodeChef**: [codechef.com/users/writer0411](https://www.codechef.com/users/writer0411)
+- 🌿 **GeeksforGeeks**: [geeksforgeeks.org/user/akshatjac1tg](https://www.geeksforgeeks.org/user/akshatjac1tg)
+- 🎯 **HackerRank**: [hackerrank.com/profile/akshat_jain0411](https://www.hackerrank.com/profile/akshat_jain0411)
+- 🥋 **CodeStudio**: [naukri.com/code360/profile/7df04252-3450-45b4-bc5b-a992](https://www.naukri.com/code360/profile/7df04252-3450-45b4-bc5b-a992)
+- 🏯 **AtCoder**: [atcoder.jp/users/Wwriter](https://atcoder.jp/users/Wwriter)
+- 🧠 **AlgoMaster**: [algomaster.io/profile/akshat-jain](https://algomaster.io/profile/akshat-jain)
 - 🐙 **GitHub**: [github.com/Akshat-Jain-sudo](https://github.com/Akshat-Jain-sudo)
 - 🌐 **Portfolio**: [akshat-jain-sudo.github.io/PW2](https://akshat-jain-sudo.github.io/PW2/)
 
